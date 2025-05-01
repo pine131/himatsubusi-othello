@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ひまつぶしオセロ</title>
+    <meta name="description" content="中高生向け、暇つぶしオセロ！AIと3段階で対戦できる無料ブラウザゲーム">
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>ひまつぶしゲーム</h1>
+        <nav>
+            <button id="select-othello">オセロ</button>
+            <button id="select-shogi" disabled>将棋（準備中）</button>
+        </nav>
+    </header>
+
+    <div id="level-buttons">
+        <button data-level="easy">初級</button>
+        <button data-level="normal">中級</button>
+        <button data-level="hard">上級</button>
+    </div>
+
+    <section id="status-bar">
+        <p id="turn-indicator">現在の番：黒</p>
+        <p id="stone-count">黒: 2　白: 2</p>
+    </section>
+
+    <main id="game-container">
+        <!-- 盤面生成エリア -->
+    </main>
+
+    <footer>
+        <div id="ad-container">
+            <!-- Google AdSense 広告予定 -->
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/othello.js"></script>
+    <script src="js/ai/othelloAI.js"></script>
+</body>
+
+</html>

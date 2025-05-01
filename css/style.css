@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header,
+footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+nav button,
+#level-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#level-buttons {
+    margin: 10px;
+}
+
+#status-bar {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+#game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+.othello-board {
+    display: grid;
+    grid-template-columns: repeat(8, 40px);
+    grid-template-rows: repeat(8, 40px);
+    gap: 2px;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    background-color: #008000;
+    border: 1px solid #fff;
+    cursor: pointer;
+    position: relative;
+}
+
+.cell.black::before,
+.cell.white::before {
+    content: "";
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.cell.black::before {
+    background-color: black;
+}
+
+.cell.white::before {
+    background-color: white;
+}
