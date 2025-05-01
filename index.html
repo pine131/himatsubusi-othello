@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ひまつぶしオセロ</title>
-    <meta name="description" content="中高生向け、暇つぶしオセロ！AIと3段階で対戦できる無料ブラウザゲーム">
+    <title>無料で遊べる！AI対戦オセロ｜暇つぶしに最適な学生向けゲーム</title>
+    <meta name="description" content="中高生・大学生向けの無料オセロゲーム！AIと対戦できる暇つぶし用ブラウザゲーム。スマホ・PC対応、難易度3段階。将棋も追加予定！">
     <link rel="stylesheet" href="css/style.css" />
 
     <!--
@@ -17,7 +17,7 @@
 
 <body>
     <header>
-        <h1>ひまつぶしゲーム</h1>
+        <h1>AIと対戦できる無料オセロゲーム｜学生向け暇つぶしゲーム</h1>
         <nav>
             <button id="select-othello">オセロ</button>
             <button id="select-shogi" disabled>将棋（準備中）</button>
@@ -41,9 +41,17 @@
 
     <main id="game-container"></main>
 
+    <!-- 🔼 新しい広告表示枠（盤面下） -->
+    <div id="ad-below-game">
+        <!-- AdSense広告コード挿入予定 -->
+    </div>
+
+    <!-- 🔼 終了時広告ポップアップ枠（JavaScript側で出力） -->
+    <div id="ad-endgame"></div>
+
     <footer>
         <div id="ad-container">
-            <!-- Google AdSense 広告予定 -->
+            <!-- Google AdSense 広告予定（フッター常時表示） -->
         </div>
     </footer>
 
