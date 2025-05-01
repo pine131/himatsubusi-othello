@@ -4,72 +4,41 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>オセロゲーム｜ひまつぶし1人用AI対戦｜無料ブラウザゲーム</title>
-    <meta name="description" content="暇つぶしに最適なオセロゲーム！1人用AI対戦（難易度3段階）でスマホ・PCどちらでも無料で遊べます。学生向けブラウザゲーム。">
-    <meta name="keywords" content="オセロ,AI,対戦,無料,暇つぶし,スマホ対応,中学生,高校生,ブラウザゲーム">
-    <meta property="og:title" content="オセロゲーム - AIと1人対戦｜無料ブラウザゲーム" />
-    <meta property="og:description" content="暇つぶしに最適な学生向け1人用オセロゲーム！AI対戦・3段階難易度で何度でも無料プレイ。PC/スマホ対応。" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://himatsubusi-game.com/othello.html" />
-    <meta property="og:site_name" content="ひまつぶしゲーム" />
-    <meta property="og:image" content="https://himatsubusi-game.com/ogp.png" />
+    <meta name="description" content="1人用の無料オセロゲーム。CPUと対戦して戦略力を鍛えよう。難易度3段階あり。学生向けの暇つぶしにも最適。" />
+    <title>1人用オセロゲーム｜CPU対戦（無料）</title>
     <link rel="stylesheet" href="css/style.css" />
-
-    <!--
-  このサイトは学生向けに設計されたオリジナルの暇つぶしボードゲーム「オセロ」の1人用AI対戦バージョンです。
-  GitHub Pages上に手動構築され、Google AdSenseのポリシーに基づき収益化目的で利用されています。
-  -->
 </head>
 
 <body>
     <header>
         <h1>1人用オセロゲーム｜CPU対戦（無料）</h1>
-        <nav>
-            <a href="index.html">トップに戻る</a>
-        </nav>
+        <a href="index.html">トップに戻る</a>
     </header>
 
+    <div id="level-buttons">
+        <button data-level="easy">初級</button>
+        <button data-level="normal">中級</button>
+        <button data-level="hard">上級</button>
+    </div>
+
+    <section id="status-bar">
+        <p id="turn-indicator">現在の番：未選択</p>
+        <p id="stone-count">黒：2　白：2</p>
+    </section>
+
     <main>
-        <div id="level-buttons">
-            <button data-level="easy">初級</button>
-            <button data-level="normal">中級</button>
-            <button data-level="hard">上級</button>
-        </div>
-
-        <section id="level-status">
-            <p id="current-difficulty">現在の難易度：未選択</p>
-        </section>
-
-        <div id="ad-startgame">
-            <!-- 広告（ゲーム開始時表示） -->
-            <div style="margin: 20px auto; max-width: 728px;">
-                <div style="border:1px solid #ccc; padding:10px;">広告（開始時）</div>
-            </div>
-        </div>
-
-        <section id="status-bar">
-            <p id="turn-indicator">現在の番：黒</p>
-            <p id="stone-count">黒: 2　白: 2</p>
-        </section>
-
-        <main id="game-container"></main>
-
-        <div id="ad-endgame"></div>
+        <div id="board" class="game-board"></div>
     </main>
 
     <footer>
         <div id="ad-container">
-            <!-- Google AdSense 広告予定 -->
+            <!-- Google AdSense 広告表示予定エリア -->
         </div>
-        <div style="margin-top: 20px; font-size: 14px; color: #555;">
-            <p>本オセロゲームは、学生の思考力や戦略力を養うことを目的とした1人用AI対戦形式です。</p>
-            <p>個人開発・広告収益型の非営利サイトとして運営しています。</p>
-        </div>
+        <p>本オセロゲームは、学生の思考力や戦略力を養うことを目的とした1人用AI対戦形式です。<br>
+            個人開発・広告収益型の非営利サイトとして運営しています。</p>
     </footer>
 
-    <script src="js/main.js"></script>
     <script src="js/othello.js"></script>
-    <script src="js/ai/othelloAI.js"></script>
 </body>
 
 </html>

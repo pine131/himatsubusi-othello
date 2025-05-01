@@ -1,188 +1,133 @@
+const boardSize = 8;
+let board = [];
+let currentPlayer = "black";
+
+// 初期化処理
 document.addEventListener("DOMContentLoaded", () => {
-    const gameContainer = document.getElementById("game-container");
-    const turnIndicator = document.getElementById("turn-indicator");
-    const stoneCount = document.getElementById("stone-count");
-    const levelButtons = document.querySelectorAll("button[data-level]");
-    const difficultyDisplay = document.getElementById("current-difficulty");
+    initGame();
+});
 
-    let board = [];
-    let currentPlayer = "black";
-    let currentLevel = "easy";
-    let isCPUMode = true;
-    let isGameOver = false;
+function initGame() {
+    board = Array.from({ length: boardSize }, () =>
+        Array(boardSize).fill(null)
+    );
 
-    levelButtons.forEach(button => {
-        button.addEventListener("click", () => {
-            currentLevel = button.dataset.level;
-            updateDifficultyDisplay(currentLevel);
-            highlightLevelButton(currentLevel);
-            initGame();
-        });
+    // 初期配置
+    const mid = boardSize / 2;
+    board[mid - 1][mid - 1] = "white";
+    board[mid][mid] = "white";
+    board[mid - 1][mid] = "black";
+    board[mid][mid - 1] = "black";
+
+    renderBoard();
+    updateTurnIndicator();
+    updateStoneCount();
+}
+
+// 盤面描画
+function renderBoard() {
+    const boardElement = document.getElementById("board");
+    boardElement.innerHTML = "";
+
+    for (let y = 0; y < boardSize; y++) {
+        const row = document.createElement("div");
+        row.className = "board-row";
+
+        for (let x = 0; x < boardSize; x++) {
+            const cell = document.createElement("div");
+            cell.className = "board-cell";
+            cell.dataset.x = x;
+            cell.dataset.y = y;
+            cell.addEventListener("click", handleCellClick);
+
+            if (board[y][x]) {
+                const stone = document.createElement("div");
+                stone.className = `stone ${board[y][x]}`;
+                cell.appendChild(stone);
+            }
+
+            row.appendChild(cell);
+        }
+
+        boardElement.appendChild(row);
+    }
+}
+
+// セルクリック時の処理
+function handleCellClick(event) {
+    const x = parseInt(event.currentTarget.dataset.x);
+    const y = parseInt(event.currentTarget.dataset.y);
+
+    if (!isValidMove(x, y, currentPlayer)) return;
+
+    const flips = getFlips(x, y, currentPlayer);
+    board[y][x] = currentPlayer;
+    flips.forEach(([fx, fy]) => {
+        board[fy][fx] = currentPlayer;
     });
 
-    function updateDifficultyDisplay(level) {
-        const map = {
-            easy: "初級（easy）",
-            normal: "中級（normal）",
-            hard: "上級（hard）"
-        };
-        difficultyDisplay.textContent = `現在の難易度：${map[level]}`;
-    }
+    currentPlayer = currentPlayer === "black" ? "white" : "black";
+    renderBoard();
+    updateTurnIndicator();
+    updateStoneCount();
+}
 
-    function highlightLevelButton(level) {
-        levelButtons.forEach(b => b.classList.remove("selected"));
-        document.querySelector(`[data-level="${level}"]`).classList.add("selected");
-    }
+// 石を裏返す座標を取得
+function getFlips(x, y, player) {
+    const opponent = player === "black" ? "white" : "black";
+    const directions = [
+        [0, 1], [1, 0], [0, -1], [-1, 0],
+        [1, 1], [-1, -1], [1, -1], [-1, 1],
+    ];
+    let flips = [];
 
-    function initGame() {
-        isGameOver = false;
-        board = Array(8).fill(null).map(() => Array(8).fill(""));
-        board[3][3] = "white";
-        board[4][4] = "white";
-        board[3][4] = "black";
-        board[4][3] = "black";
-        currentPlayer = "black";
-        renderBoard();
-        updateStatus();
+    for (let [dx, dy] of directions) {
+        let nx = x + dx;
+        let ny = y + dy;
+        let candidates = [];
 
-        const adStart = document.getElementById("ad-startgame");
-        if (adStart) {
-            adStart.innerHTML = `<div style="border:1px solid #ccc; padding:10px; margin:10px;">広告（ゲーム開始時）</div>`;
+        while (
+            nx >= 0 && nx < boardSize &&
+            ny >= 0 && ny < boardSize &&
+            board[ny][nx] === opponent
+        ) {
+            candidates.push([nx, ny]);
+            nx += dx;
+            ny += dy;
+        }
+
+        if (
+            nx >= 0 && nx < boardSize &&
+            ny >= 0 && ny < boardSize &&
+            board[ny][nx] === player &&
+            candidates.length
+        ) {
+            flips.push(...candidates);
         }
     }
 
-    function renderBoard() {
-        gameContainer.innerHTML = "";
-        gameContainer.classList.add("othello-board");
+    return flips;
+}
 
-        for (let row = 0; row < 8; row++) {
-            for (let col = 0; col < 8; col++) {
-                const cell = document.createElement("div");
-                cell.className = "cell";
-                if (board[row][col] === "black") cell.classList.add("black");
-                if (board[row][col] === "white") cell.classList.add("white");
+// 有効な手かどうかをチェック
+function isValidMove(x, y, player) {
+    return board[y][x] === null && getFlips(x, y, player).length > 0;
+}
 
-                cell.addEventListener("click", () => handleMove(row, col));
-                gameContainer.appendChild(cell);
-            }
+// ターン表示を更新
+function updateTurnIndicator() {
+    const indicator = document.getElementById("turn-indicator");
+    indicator.textContent = `現在の番：${currentPlayer === "black" ? "黒" : "白"}`;
+}
+
+// 石の数を更新
+function updateStoneCount() {
+    let black = 0, white = 0;
+    for (let row of board) {
+        for (let cell of row) {
+            if (cell === "black") black++;
+            else if (cell === "white") white++;
         }
     }
-
-    function handleMove(row, col) {
-        if (isGameOver || board[row][col] !== "") return;
-
-        const flips = getFlips(row, col, currentPlayer);
-        if (flips.length === 0) return;
-
-        board[row][col] = currentPlayer;
-        flips.forEach(([r, c]) => (board[r][c] = currentPlayer));
-        switchPlayer();
-        updateStatus();
-        renderBoard();
-
-        if (!hasValidMove(currentPlayer)) {
-            switchPlayer();
-            if (!hasValidMove(currentPlayer)) {
-                endGame();
-                return;
-            }
-        }
-
-        if (isCPUMode && currentPlayer === "white") {
-            setTimeout(cpuMove, 500);
-        }
-    }
-
-    function getFlips(row, col, color) {
-        const directions = [
-            [-1, 0], [1, 0], [0, -1], [0, 1],
-            [-1, -1], [-1, 1], [1, -1], [1, 1]
-        ];
-        const flips = [];
-
-        directions.forEach(([dx, dy]) => {
-            let r = row + dx;
-            let c = col + dy;
-            const candidates = [];
-
-            while (r >= 0 && r < 8 && c >= 0 && c < 8) {
-                if (board[r][c] === "") break;
-                if (board[r][c] === color) {
-                    flips.push(...candidates);
-                    break;
-                } else {
-                    candidates.push([r, c]);
-                }
-                r += dx;
-                c += dy;
-            }
-        });
-
-        return flips;
-    }
-
-    function switchPlayer() {
-        currentPlayer = currentPlayer === "black" ? "white" : "black";
-    }
-
-    function updateStatus() {
-        turnIndicator.textContent = `現在の番：${currentPlayer === "black" ? "黒" : "白"}`;
-        const count = countStones();
-        stoneCount.textContent = `黒: ${count.black}　白: ${count.white}`;
-    }
-
-    function countStones() {
-        let black = 0, white = 0;
-        for (let row of board) {
-            for (let cell of row) {
-                if (cell === "black") black++;
-                if (cell === "white") white++;
-            }
-        }
-        return { black, white };
-    }
-
-    function hasValidMove(color) {
-        for (let r = 0; r < 8; r++) {
-            for (let c = 0; c < 8; c++) {
-                if (board[r][c] === "" && getFlips(r, c, color).length > 0) {
-                    return true;
-                }
-            }
-        }
-        return false;
-    }
-
-    function endGame() {
-        isGameOver = true;
-        const { black, white } = countStones();
-        const result =
-            black > white ? "黒の勝ち！" :
-                white > black ? "白の勝ち！" :
-                    "引き分け！";
-
-        gameContainer.innerHTML = `
-        <h2>ゲーム終了</h2>
-        <p>黒: ${black}　白: ${white}</p>
-        <p><strong>${result}</strong></p>
-        <button id="restart-button">もう一度プレイ</button>
-      `;
-
-        const adEnd = document.getElementById("ad-endgame");
-        adEnd.innerHTML = `<div style="border:1px solid #ccc; padding:10px; margin:10px;">広告（ゲーム終了後）</div>`;
-
-        document.getElementById("restart-button").addEventListener("click", () => {
-            initGame();
-        });
-    }
-
-    function cpuMove() {
-        const move = getBestMove(board, "white", currentLevel);
-        if (move) {
-            handleMove(move.row, move.col);
-        }
-    }
-
-    // 初期化呼び出しは無し（難易度選択時に実行）
-
-});
+    document.getElementById("stone-count").innerHTML = `黒：${black}　白：${white}`;
+}
