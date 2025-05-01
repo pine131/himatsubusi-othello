@@ -7,6 +7,12 @@
     <title>ひまつぶしオセロ</title>
     <meta name="description" content="中高生向け、暇つぶしオセロ！AIと3段階で対戦できる無料ブラウザゲーム">
     <link rel="stylesheet" href="css/style.css" />
+
+    <!--
+  このサイトは学生向けに設計されたオリジナルの暇つぶしゲームを提供するものであり、GitHub Pages上に手動で構築されています。
+  内容はAI対戦機能つきのオセロゲームで、将来的に将棋や他のボードゲームも追加予定です。
+  Google AdSenseのポリシーに従って収益化目的で利用します。
+  -->
 </head>
 
 <body>
@@ -24,14 +30,16 @@
         <button data-level="hard">上級</button>
     </div>
 
+    <section id="level-status">
+        <p id="current-difficulty">現在の難易度：未選択</p>
+    </section>
+
     <section id="status-bar">
         <p id="turn-indicator">現在の番：黒</p>
         <p id="stone-count">黒: 2　白: 2</p>
     </section>
 
-    <main id="game-container">
-        <!-- 盤面生成エリア -->
-    </main>
+    <main id="game-container"></main>
 
     <footer>
         <div id="ad-container">
@@ -44,4 +52,4 @@
     <script src="js/ai/othelloAI.js"></script>
 </body>
 
-</html>"<!-- trigger rebuild -->" 
+</html>

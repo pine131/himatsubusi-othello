@@ -27,6 +27,11 @@ nav button,
     font-size: 16px;
 }
 
+#level-status {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
 #game-container {
     display: flex;
     justify-content: center;
@@ -68,4 +73,9 @@ nav button,
 
 .cell.white::before {
     background-color: white;
+}
+
+button.selected {
+    border: 2px solid #4CAF50;
+    background-color: #eaffea;
 }
