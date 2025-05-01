@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>タイピングゲーム｜難易度別スコア制｜日本語ローマ字入力</title>
+    <meta name="description" content="日本語ローマ字で遊べる無料タイピングゲーム。難易度3段階・スコア表示対応で暇つぶしにも最適！スマホ・PC対応。">
+    <meta name="keywords" content="タイピングゲーム,日本語,ローマ字,無料,暇つぶし,スマホ,初心者,練習,スコア,中高生向け">
+    <meta property="og:title" content="タイピングゲーム｜暇つぶし・スコアで練習" />
+    <meta property="og:description" content="日本語タイピングを無料で練習。難易度別に出題される単語をローマ字で素早く入力しよう！スコア表示対応で成長が見える。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://himatsubusi-game.com/typing.html" />
+    <meta property="og:image" content="https://himatsubusi-game.com/ogp.png" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!--
+    このページは日本語ローマ字入力対応の無料タイピングゲームです。
+    スコア表示・難易度選択に対応し、広告による収益を目的としています。
+    出題単語は自然な日本語を採用しており、スマホでもプレイ可能です。
+  -->
+</head>
+
+<body>
+    <header>
+        <h1>日本語ローマ字 タイピングゲーム</h1>
+        <nav><a href="index.html">トップに戻る</a></nav>
+    </header>
+
+    <main>
+        <section id="typing-container">
+            <div id="typing-info">
+                <label>難易度を選択：</label>
+                <button onclick="setDifficulty('easy')">初級</button>
+                <button onclick="setDifficulty('normal')">中級</button>
+                <button onclick="setDifficulty('hard')">上級</button>
+                <p id="current-difficulty">未選択</p>
+                <p id="score-display">スコア：0</p>
+            </div>
+
+            <div id="typing-game-area">
+                <div id="word-display">スタートボタンで開始</div>
+                <input type="text" id="input-area" placeholder="ここに入力..." disabled />
+                <button onclick="startGame()">ゲーム開始</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p style="font-size: 14px; color: #666;">&copy; 2025 暇つぶしゲーム製作委員会</p>
+    </footer>
+
+    <script src="js/typing.js"></script>
+</body>
+
+</html>

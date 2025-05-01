@@ -1,196 +1,188 @@
-let currentColor = "black";
-let skipCount = 0;
+document.addEventListener("DOMContentLoaded", () => {
+    const gameContainer = document.getElementById("game-container");
+    const turnIndicator = document.getElementById("turn-indicator");
+    const stoneCount = document.getElementById("stone-count");
+    const levelButtons = document.querySelectorAll("button[data-level]");
+    const difficultyDisplay = document.getElementById("current-difficulty");
 
-function startOthello() {
-    initScoreStorage();
+    let board = [];
+    let currentPlayer = "black";
+    let currentLevel = "easy";
+    let isCPUMode = true;
+    let isGameOver = false;
 
-    const boardContainer = document.getElementById("game-container");
-    boardContainer.innerHTML = "";
-
-    const board = document.createElement("div");
-    board.className = "othello-board";
-
-    for (let y = 0; y < 8; y++) {
-        for (let x = 0; x < 8; x++) {
-            const cell = document.createElement("div");
-            cell.className = "cell";
-            cell.dataset.x = x;
-            cell.dataset.y = y;
-            board.appendChild(cell);
-        }
-    }
-
-    boardContainer.appendChild(board);
-    setupInitialDisks();
-}
-
-function setupInitialDisks() {
-    const cells = document.querySelectorAll(".cell");
-    setDisk(cells, 3, 3, "white");
-    setDisk(cells, 4, 4, "white");
-    setDisk(cells, 3, 4, "black");
-    setDisk(cells, 4, 3, "black");
-
-    cells.forEach((cell) => {
-        cell.addEventListener("click", () => {
-            const x = Number(cell.dataset.x);
-            const y = Number(cell.dataset.y);
-
-            if (cell.classList.contains("black") || cell.classList.contains("white")) return;
-
-            const flipped = getFlippableCells(x, y, currentColor);
-            if (flipped.length > 0) {
-                setDisk(cells, x, y, currentColor);
-                flipped.forEach((c) => c.classList.replace(getOpponentColor(), currentColor));
-                currentColor = getOpponentColor();
-                updateStatusBar();
-                checkGameState();
-            }
+    levelButtons.forEach(button => {
+        button.addEventListener("click", () => {
+            currentLevel = button.dataset.level;
+            updateDifficultyDisplay(currentLevel);
+            highlightLevelButton(currentLevel);
+            initGame();
         });
     });
 
-    updateStatusBar();
-    displayStoredScore();
-}
+    function updateDifficultyDisplay(level) {
+        const map = {
+            easy: "初級（easy）",
+            normal: "中級（normal）",
+            hard: "上級（hard）"
+        };
+        difficultyDisplay.textContent = `現在の難易度：${map[level]}`;
+    }
 
-function setDisk(cells, x, y, color) {
-    const cell = [...cells].find(
-        (c) => Number(c.dataset.x) === x && Number(c.dataset.y) === y
-    );
-    if (cell) cell.classList.add(color);
-}
+    function highlightLevelButton(level) {
+        levelButtons.forEach(b => b.classList.remove("selected"));
+        document.querySelector(`[data-level="${level}"]`).classList.add("selected");
+    }
 
-function getCell(x, y) {
-    return document.querySelector(`.cell[data-x="${x}"][data-y="${y}"]`);
-}
+    function initGame() {
+        isGameOver = false;
+        board = Array(8).fill(null).map(() => Array(8).fill(""));
+        board[3][3] = "white";
+        board[4][4] = "white";
+        board[3][4] = "black";
+        board[4][3] = "black";
+        currentPlayer = "black";
+        renderBoard();
+        updateStatus();
 
-function getOpponentColor() {
-    return currentColor === "black" ? "white" : "black";
-}
-
-function getFlippableCells(x, y, color) {
-    const directions = [
-        [-1, -1], [-1, 0], [-1, 1],
-        [0, -1], [0, 1],
-        [1, -1], [1, 0], [1, 1]
-    ];
-    const result = [];
-
-    directions.forEach(([dx, dy]) => {
-        const line = [];
-        let cx = x + dx;
-        let cy = y + dy;
-
-        while (cx >= 0 && cx < 8 && cy >= 0 && cy < 8) {
-            const cell = getCell(cx, cy);
-            if (!cell) break;
-            if (cell.classList.contains(getOpponentColor())) {
-                line.push(cell);
-            } else if (cell.classList.contains(color)) {
-                if (line.length > 0) result.push(...line);
-                break;
-            } else {
-                break;
-            }
-            cx += dx;
-            cy += dy;
+        const adStart = document.getElementById("ad-startgame");
+        if (adStart) {
+            adStart.innerHTML = `<div style="border:1px solid #ccc; padding:10px; margin:10px;">広告（ゲーム開始時）</div>`;
         }
-    });
+    }
 
-    return result;
-}
+    function renderBoard() {
+        gameContainer.innerHTML = "";
+        gameContainer.classList.add("othello-board");
 
-function updateStatusBar() {
-    const black = document.querySelectorAll(".cell.black").length;
-    const white = document.querySelectorAll(".cell.white").length;
-    const turnText = currentColor === "black" ? "黒" : "白";
+        for (let row = 0; row < 8; row++) {
+            for (let col = 0; col < 8; col++) {
+                const cell = document.createElement("div");
+                cell.className = "cell";
+                if (board[row][col] === "black") cell.classList.add("black");
+                if (board[row][col] === "white") cell.classList.add("white");
 
-    document.getElementById("turn-indicator").textContent = `現在の番：${turnText}`;
-    document.getElementById("stone-count").textContent = `黒: ${black}　白: ${white}`;
-}
-
-function hasValidMove(color) {
-    for (let y = 0; y < 8; y++) {
-        for (let x = 0; x < 8; x++) {
-            const cell = getCell(x, y);
-            if (!cell.classList.contains("black") && !cell.classList.contains("white")) {
-                if (getFlippableCells(x, y, color).length > 0) return true;
+                cell.addEventListener("click", () => handleMove(row, col));
+                gameContainer.appendChild(cell);
             }
         }
     }
-    return false;
-}
 
-function checkGameState() {
-    if (hasValidMove(currentColor)) {
-        skipCount = 0;
-    } else {
-        skipCount++;
-        alert(`${currentColor === "black" ? "黒" : "白"}はパスします`);
-        currentColor = getOpponentColor();
-        updateStatusBar();
-    }
+    function handleMove(row, col) {
+        if (isGameOver || board[row][col] !== "") return;
 
-    if (skipCount >= 2) {
-        showGameResult();
-        return;
-    }
+        const flips = getFlips(row, col, currentPlayer);
+        if (flips.length === 0) return;
 
-    // CPUの番ならAIを呼び出す
-    if (skipCount < 2 && isCpuMode && currentColor === "white") {
-        setTimeout(() => {
-            if (cpuLevel === "easy") {
-                makeCpuMove();
-            } else if (cpuLevel === "normal") {
-                makeCpuMoveAdvanced();
-            } else {
-                makeCpuMoveStrong();
+        board[row][col] = currentPlayer;
+        flips.forEach(([r, c]) => (board[r][c] = currentPlayer));
+        switchPlayer();
+        updateStatus();
+        renderBoard();
+
+        if (!hasValidMove(currentPlayer)) {
+            switchPlayer();
+            if (!hasValidMove(currentPlayer)) {
+                endGame();
+                return;
             }
-        }, 500);
-    }
-}
+        }
 
-function showGameResult() {
-    const black = document.querySelectorAll(".cell.black").length;
-    const white = document.querySelectorAll(".cell.white").length;
-    let result;
-
-    if (black > white) {
-        result = "win";
-        alert(`ゲーム終了！\n黒の勝ち！\n黒: ${black}　白: ${white}`);
-    } else if (white > black) {
-        result = "lose";
-        alert(`ゲーム終了！\n白の勝ち！\n黒: ${black}　白: ${white}`);
-    } else {
-        result = "draw";
-        alert(`ゲーム終了！\n引き分け！\n黒: ${black}　白: ${white}`);
+        if (isCPUMode && currentPlayer === "white") {
+            setTimeout(cpuMove, 500);
+        }
     }
 
-    updateScore(result);
-    location.reload();
-}
+    function getFlips(row, col, color) {
+        const directions = [
+            [-1, 0], [1, 0], [0, -1], [0, 1],
+            [-1, -1], [-1, 1], [1, -1], [1, 1]
+        ];
+        const flips = [];
 
-function initScoreStorage() {
-    if (!localStorage.getItem("othelloScore")) {
-        localStorage.setItem("othelloScore", JSON.stringify({ win: 0, lose: 0, draw: 0 }));
+        directions.forEach(([dx, dy]) => {
+            let r = row + dx;
+            let c = col + dy;
+            const candidates = [];
+
+            while (r >= 0 && r < 8 && c >= 0 && c < 8) {
+                if (board[r][c] === "") break;
+                if (board[r][c] === color) {
+                    flips.push(...candidates);
+                    break;
+                } else {
+                    candidates.push([r, c]);
+                }
+                r += dx;
+                c += dy;
+            }
+        });
+
+        return flips;
     }
-}
 
-function updateScore(result) {
-    const score = JSON.parse(localStorage.getItem("othelloScore"));
-    if (result === "win") score.win++;
-    else if (result === "lose") score.lose++;
-    else score.draw++;
-    localStorage.setItem("othelloScore", JSON.stringify(score));
-}
+    function switchPlayer() {
+        currentPlayer = currentPlayer === "black" ? "white" : "black";
+    }
 
-function displayStoredScore() {
-    const score = JSON.parse(localStorage.getItem("othelloScore"));
-    const total = score.win + score.lose + score.draw;
-    const rate = total > 0 ? Math.round((score.win / total) * 100) : 0;
-    const text = `累計：${score.win}勝 ${score.lose}敗 ${score.draw}分（勝率${rate}％）`;
+    function updateStatus() {
+        turnIndicator.textContent = `現在の番：${currentPlayer === "black" ? "黒" : "白"}`;
+        const count = countStones();
+        stoneCount.textContent = `黒: ${count.black}　白: ${count.white}`;
+    }
 
-    const info = document.createElement("p");
-    info.textContent = text;
-    document.getElementById("status-bar").appendChild(info);
-}
+    function countStones() {
+        let black = 0, white = 0;
+        for (let row of board) {
+            for (let cell of row) {
+                if (cell === "black") black++;
+                if (cell === "white") white++;
+            }
+        }
+        return { black, white };
+    }
+
+    function hasValidMove(color) {
+        for (let r = 0; r < 8; r++) {
+            for (let c = 0; c < 8; c++) {
+                if (board[r][c] === "" && getFlips(r, c, color).length > 0) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    function endGame() {
+        isGameOver = true;
+        const { black, white } = countStones();
+        const result =
+            black > white ? "黒の勝ち！" :
+                white > black ? "白の勝ち！" :
+                    "引き分け！";
+
+        gameContainer.innerHTML = `
+        <h2>ゲーム終了</h2>
+        <p>黒: ${black}　白: ${white}</p>
+        <p><strong>${result}</strong></p>
+        <button id="restart-button">もう一度プレイ</button>
+      `;
+
+        const adEnd = document.getElementById("ad-endgame");
+        adEnd.innerHTML = `<div style="border:1px solid #ccc; padding:10px; margin:10px;">広告（ゲーム終了後）</div>`;
+
+        document.getElementById("restart-button").addEventListener("click", () => {
+            initGame();
+        });
+    }
+
+    function cpuMove() {
+        const move = getBestMove(board, "white", currentLevel);
+        if (move) {
+            handleMove(move.row, move.col);
+        }
+    }
+
+    // 初期化呼び出しは無し（難易度選択時に実行）
+
+});

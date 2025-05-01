@@ -4,60 +4,60 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>無料で遊べる！AI対戦オセロ｜暇つぶしに最適な学生向けゲーム</title>
-    <meta name="description" content="中高生・大学生向けの無料オセロゲーム！AIと対戦できる暇つぶし用ブラウザゲーム。スマホ・PC対応、難易度3段階。将棋も追加予定！">
+    <title>暇つぶしゲーム｜無料で遊べるブラウザゲーム集</title>
+    <meta name="description" content="中高生・大学生向けの無料ブラウザゲーム集。将棋・オセロ・タイピングゲームがスマホやPCで今すぐ遊べます。広告収益で運営中。">
+    <meta name="keywords" content="暇つぶしゲーム,ブラウザゲーム,無料,スマホ,将棋,オセロ,タイピング,1人用,中高生,大学生">
+    <meta property="og:title" content="暇つぶしゲーム｜無料で1人用AI対戦" />
+    <meta property="og:description" content="中高生に人気の無料ブラウザゲーム集。将棋・オセロ・タイピングが選べて、すぐに遊べる暇つぶしサイト。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://himatsubusi-game.com/" />
+    <meta property="og:site_name" content="ひまつぶしゲーム" />
+    <meta property="og:image" content="https://himatsubusi-game.com/ogp.png" />
     <link rel="stylesheet" href="css/style.css" />
 
     <!--
-  このサイトは学生向けに設計されたオリジナルの暇つぶしゲームを提供するものであり、GitHub Pages上に手動で構築されています。
-  内容はAI対戦機能つきのオセロゲームで、将来的に将棋や他のボードゲームも追加予定です。
-  Google AdSenseのポリシーに従って収益化目的で利用します。
+    このサイトは中高生や大学生向けに設計された無料の暇つぶしゲーム集です。
+    すべてのゲームは1人用でAI対戦が可能。広告による収益で継続運営されています。
+    Google AdSense審査用に、ページ構造やゲーム選択機能を明記しています。
   -->
 </head>
 
 <body>
     <header>
-        <h1>AIと対戦できる無料オセロゲーム｜学生向け暇つぶしゲーム</h1>
-        <nav>
-            <button id="select-othello">オセロ</button>
-            <button id="select-shogi" disabled>将棋（準備中）</button>
-        </nav>
+        <h1>暇つぶしゲーム（無料）</h1>
+        <p>中高生・大学生向け！スマホでも遊べるAI対戦型ゲーム集</p>
     </header>
 
-    <div id="level-buttons">
-        <button data-level="easy">初級</button>
-        <button data-level="normal">中級</button>
-        <button data-level="hard">上級</button>
-    </div>
+    <main>
+        <section id="game-list">
+            <h2>ゲームを選択してください</h2>
+            <div class="game-grid">
+                <a href="othello.html" class="game-card">
+                    <h3>オセロ</h3>
+                    <p>CPUと対戦！難易度3段階。黒白の戦略ボードゲーム。</p>
+                </a>
+                <a href="shogi.html" class="game-card">
+                    <h3>将棋</h3>
+                    <p>本格AI対戦。成り・駒の動き矢印表示で初心者でも安心！</p>
+                </a>
+                <a href="typing.html" class="game-card">
+                    <h3>タイピング</h3>
+                    <p>スコア制の日本語タイピング。3段階の難易度で練習にも◎</p>
+                </a>
+            </div>
+        </section>
 
-    <section id="level-status">
-        <p id="current-difficulty">現在の難易度：未選択</p>
-    </section>
-
-    <section id="status-bar">
-        <p id="turn-indicator">現在の番：黒</p>
-        <p id="stone-count">黒: 2　白: 2</p>
-    </section>
-
-    <main id="game-container"></main>
-
-    <!-- 🔼 新しい広告表示枠（盤面下） -->
-    <div id="ad-below-game">
-        <!-- AdSense広告コード挿入予定 -->
-    </div>
-
-    <!-- 🔼 終了時広告ポップアップ枠（JavaScript側で出力） -->
-    <div id="ad-endgame"></div>
+        <div id="ad-index-bottom">
+            <!-- トップページ用広告スペース -->
+            <div style="margin: 20px auto; max-width: 728px;">
+                <div style="border:1px solid #ccc; padding:10px;">ここに広告が表示されます（AdSense想定）</div>
+            </div>
+        </div>
+    </main>
 
     <footer>
-        <div id="ad-container">
-            <!-- Google AdSense 広告予定（フッター常時表示） -->
-        </div>
+        <p style="font-size: 14px; color: #666;">&copy; 2025 暇つぶしゲーム製作委員会</p>
     </footer>
-
-    <script src="js/main.js"></script>
-    <script src="js/othello.js"></script>
-    <script src="js/ai/othelloAI.js"></script>
 </body>
 
 </html>

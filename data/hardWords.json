@@ -1,0 +1,4002 @@
+[
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    },
+    {
+        "kana": "きかいこうがく",
+        "roma": "kikaikougaku"
+    },
+    {
+        "kana": "じょうほうしょり",
+        "roma": "jouhoushori"
+    },
+    {
+        "kana": "しぜんかがく",
+        "roma": "shizenkagaku"
+    },
+    {
+        "kana": "しゅうきょうもんだい",
+        "roma": "shuukyoumondai"
+    },
+    {
+        "kana": "しょくぎょうけいけん",
+        "roma": "shokugyoukeiken"
+    },
+    {
+        "kana": "かつどうほうほう",
+        "roma": "katsudouhouhou"
+    },
+    {
+        "kana": "こうつうあんぜん",
+        "roma": "koutsuuanzen"
+    },
+    {
+        "kana": "せいかつようひん",
+        "roma": "seikatsuyouhin"
+    },
+    {
+        "kana": "がっこうきょういく",
+        "roma": "gakkoukyouiku"
+    },
+    {
+        "kana": "でんとうぶんか",
+        "roma": "dentoubunka"
+    },
+    {
+        "kana": "しゅうかんし",
+        "roma": "shuukanshi"
+    },
+    {
+        "kana": "がいこうせいさく",
+        "roma": "gaikouseisaku"
+    },
+    {
+        "kana": "ちいきしゃかい",
+        "roma": "chiikishakai"
+    },
+    {
+        "kana": "ぶんがくりかい",
+        "roma": "bungakurikai"
+    },
+    {
+        "kana": "しょうがいしゃふくし",
+        "roma": "shougaishafukushi"
+    },
+    {
+        "kana": "かんきょうもんだい",
+        "roma": "kankyomondai"
+    },
+    {
+        "kana": "じょうほうこうがく",
+        "roma": "jouhoukougaku"
+    },
+    {
+        "kana": "せいじけいざい",
+        "roma": "seijikeizai"
+    },
+    {
+        "kana": "こくさいかんけい",
+        "roma": "kokusaikankei"
+    },
+    {
+        "kana": "しんりがくしゃ",
+        "roma": "shinrigakusha"
+    },
+    {
+        "kana": "ぎじゅつかくしん",
+        "roma": "gijutsukakushin"
+    },
+    {
+        "kana": "でんしこうがく",
+        "roma": "denshikougaku"
+    },
+    {
+        "kana": "りかいのうりょく",
+        "roma": "rikainouryoku"
+    },
+    {
+        "kana": "せいかつしゅうかん",
+        "roma": "seikatsushuukan"
+    },
+    {
+        "kana": "ぶんかいさん",
+        "roma": "bunkaisan"
+    },
+    {
+        "kana": "じんこうちのう",
+        "roma": "jinkouchinou"
+    },
+    {
+        "kana": "たんいへんかん",
+        "roma": "tanihenkan"
+    },
+    {
+        "kana": "けいえいせんりゃく",
+        "roma": "keieisenryaku"
+    },
+    {
+        "kana": "けんこうしんだん",
+        "roma": "kenkoushindan"
+    },
+    {
+        "kana": "じっせきはっぴょう",
+        "roma": "jissekihappyou"
+    },
+    {
+        "kana": "しゅうかんしゅうとく",
+        "roma": "shuukanshuutoku"
+    },
+    {
+        "kana": "しゅうだんこうどう",
+        "roma": "shuudankoudou"
+    },
+    {
+        "kana": "せいめいりねん",
+        "roma": "seimeirinen"
+    },
+    {
+        "kana": "けんしゅうせいど",
+        "roma": "kenshuuseido"
+    },
+    {
+        "kana": "こうどうりんり",
+        "roma": "koudourinri"
+    },
+    {
+        "kana": "ほうりつちしき",
+        "roma": "houritsuchishiki"
+    },
+    {
+        "kana": "じんざいかいはつ",
+        "roma": "jinzaikaihatsu"
+    },
+    {
+        "kana": "がいこくじんろうどうしゃ",
+        "roma": "gaikokujinroudousha"
+    },
+    {
+        "kana": "しぜんかんさつ",
+        "roma": "shizenkansatsu"
+    }
+]

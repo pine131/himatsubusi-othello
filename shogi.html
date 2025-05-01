@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>将棋ゲーム｜初心者でも分かる1人用AI対戦｜無料で暇つぶし</title>
+    <meta name="description" content="無料で遊べる本格将棋ゲーム。初心者でも安心、駒の動きが矢印で表示。難易度3段階のAIと対戦できる1人用ブラウザゲーム。スマホ・PC対応。">
+    <meta name="keywords" content="将棋ゲーム,1人用,AI対戦,無料,暇つぶしゲーム,初心者向け,スマホ対応,日本将棋,ブラウザゲーム">
+    <meta property="og:title" content="将棋ゲーム｜矢印で分かる！初心者歓迎のAI対戦" />
+    <meta property="og:description" content="中高生や初心者にもおすすめ！駒の動きが矢印で見える将棋ゲーム。AIと対戦可能。完全無料の暇つぶしブラウザゲーム。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://himatsubusi-game.com/shogi.html" />
+    <meta property="og:site_name" content="ひまつぶしゲーム" />
+    <meta property="og:image" content="https://himatsubusi-game.com/ogp.png" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!--
+    このページは無料でプレイできる1人用の将棋ゲームです。
+    駒の移動可能方向が矢印で表示され、初心者にも優しいUIを実装。
+    ゲーム内容は日本将棋連盟の正式ルールを基に作られています。
+    本サイトはGoogle AdSenseのポリシーに準拠し、広告収益によって運営されています。
+  -->
+</head>
+
+<body>
+    <header>
+        <h1>初心者向け 将棋ゲーム｜1人用AI対戦</h1>
+        <nav>
+            <a href="index.html">トップに戻る</a>
+        </nav>
+    </header>
+
+    <main>
+        <div id="level-buttons">
+            <button data-level="easy">初級</button>
+            <button data-level="normal">中級</button>
+            <button data-level="hard">上級</button>
+        </div>
+
+        <section id="level-status">
+            <p id="current-difficulty">現在の難易度：未選択</p>
+        </section>
+
+        <div id="ad-startgame">
+            <!-- 開始時広告枠 -->
+            <div style="margin: 20px auto; max-width: 728px;">
+                <div style="border:1px solid #ccc; padding:10px;">ここに広告が表示されます（AdSense予定）</div>
+            </div>
+        </div>
+
+        <section id="shogi-board-container">
+            <div id="shogi-board"></div>
+        </section>
+
+        <div id="ad-endgame">
+            <!-- 対局終了時の広告枠（任意で追加） -->
+        </div>
+    </main>
+
+    <footer>
+        <div id="ad-container">
+            <!-- 広告エリア -->
+        </div>
+        <div style="margin-top: 20px; font-size: 14px; color: #555;">
+            <p>この将棋ゲームは、AIと1人で遊べる本格派ブラウザゲームです。暇つぶしや思考力トレーニングに最適。</p>
+            <p>スマートフォン・パソコン両対応。広告による収益で運営されています。</p>
+        </div>
+    </footer>
+
+    <script src="js/shogi.js"></script>
+    <script src="js/ai/shogiAI.js"></script>
+</body>
+
+</html>

@@ -1,110 +1,131 @@
-function makeCpuMove() {
-    const legalMoves = [];
+function getValidMoves(board, color) {
+    const validMoves = [];
 
-    for (let y = 0; y < 8; y++) {
-        for (let x = 0; x < 8; x++) {
-            const cell = getCell(x, y);
-            if (!cell.classList.contains("black") && !cell.classList.contains("white")) {
-                const flips = getFlippableCells(x, y, currentColor);
-                if (flips.length > 0) {
-                    legalMoves.push({ x, y, flips });
-                }
+    for (let row = 0; row < 8; row++) {
+        for (let col = 0; col < 8; col++) {
+            if (board[row][col] === "" && getFlips(board, row, col, color).length > 0) {
+                validMoves.push({ row, col });
             }
         }
     }
 
-    if (legalMoves.length === 0) {
-        checkGameState();
-        return;
-    }
-
-    const move = legalMoves[Math.floor(Math.random() * legalMoves.length)];
-    const cells = document.querySelectorAll(".cell");
-    setDisk(cells, move.x, move.y, currentColor);
-    move.flips.forEach((c) => c.classList.replace(getOpponentColor(), currentColor));
-    currentColor = getOpponentColor();
-    updateStatusBar();
-    checkGameState();
+    return validMoves;
 }
 
-function makeCpuMoveAdvanced() {
-    const legalMoves = [];
-
-    for (let y = 0; y < 8; y++) {
-        for (let x = 0; x < 8; x++) {
-            const cell = getCell(x, y);
-            if (!cell.classList.contains("black") && !cell.classList.contains("white")) {
-                const flips = getFlippableCells(x, y, currentColor);
-                if (flips.length > 0) {
-                    const score = evaluateMove(x, y);
-                    legalMoves.push({ x, y, flips, score });
-                }
-            }
-        }
-    }
-
-    if (legalMoves.length === 0) {
-        checkGameState();
-        return;
-    }
-
-    legalMoves.sort((a, b) => b.score - a.score);
-    const topMoves = legalMoves.filter(m => m.score === legalMoves[0].score);
-    const move = topMoves[Math.floor(Math.random() * topMoves.length)];
-    const cells = document.querySelectorAll(".cell");
-    setDisk(cells, move.x, move.y, currentColor);
-    move.flips.forEach((c) => c.classList.replace(getOpponentColor(), currentColor));
-    currentColor = getOpponentColor();
-    updateStatusBar();
-    checkGameState();
-}
-
-function evaluateMove(x, y) {
-    const corners = [[0, 0], [0, 7], [7, 0], [7, 7]];
-    const danger = [
-        [0, 1], [1, 0], [1, 1], [0, 6], [1, 6], [1, 7],
-        [6, 0], [6, 1], [7, 1], [6, 6], [6, 7], [7, 6]
+function getFlips(board, row, col, color) {
+    const directions = [
+        [-1, 0], [1, 0], [0, -1], [0, 1],
+        [-1, -1], [-1, 1], [1, -1], [1, 1]
     ];
-    if (corners.some(([cx, cy]) => cx === x && cy === y)) return 100;
-    if (danger.some(([dx, dy]) => dx === x && dy === y)) return -50;
-    if (x === 0 || x === 7 || y === 0 || y === 7) return 10;
+    const flips = [];
+
+    directions.forEach(([dx, dy]) => {
+        let r = row + dx;
+        let c = col + dy;
+        const candidates = [];
+
+        while (r >= 0 && r < 8 && c >= 0 && c < 8) {
+            if (board[r][c] === "") break;
+            if (board[r][c] === color) {
+                flips.push(...candidates);
+                break;
+            } else {
+                candidates.push([r, c]);
+            }
+            r += dx;
+            c += dy;
+        }
+    });
+
+    return flips;
+}
+
+// 初級：ランダムに合法手を選ぶ
+function makeCpuMove(board, color) {
+    const validMoves = getValidMoves(board, color);
+    if (validMoves.length === 0) return null;
+    const idx = Math.floor(Math.random() * validMoves.length);
+    return validMoves[idx];
+}
+
+// 中級：簡易評価関数（角・辺を好む）
+function makeCpuMoveAdvanced(board, color) {
+    const validMoves = getValidMoves(board, color);
+    if (validMoves.length === 0) return null;
+
+    let bestScore = -Infinity;
+    let bestMove = null;
+
+    for (let move of validMoves) {
+        const score = evaluateMove(move.row, move.col);
+        if (score > bestScore) {
+            bestScore = score;
+            bestMove = move;
+        }
+    }
+
+    return bestMove;
+}
+
+function evaluateMove(row, col) {
+    const corners = [
+        [0, 0], [0, 7], [7, 0], [7, 7]
+    ];
+    const edges = row === 0 || row === 7 || col === 0 || col === 7;
+
+    for (let [r, c] of corners) {
+        if (row === r && col === c) return 100;
+    }
+    if (edges) return 10;
+    if ((row === 1 && col === 1) || (row === 6 && col === 6)) return -50;
     return 0;
 }
 
-function makeCpuMoveStrong() {
-    const legalMoves = [];
+// 上級：石をより多く取れる手を選ぶ
+function makeCpuMoveStrong(board, color) {
+    const validMoves = getValidMoves(board, color);
+    if (validMoves.length === 0) return null;
 
-    for (let y = 0; y < 8; y++) {
-        for (let x = 0; x < 8; x++) {
-            const cell = getCell(x, y);
-            if (!cell.classList.contains("black") && !cell.classList.contains("white")) {
-                const flips = getFlippableCells(x, y, currentColor);
-                if (flips.length > 0) {
-                    const score = simulateBoardScore(x, y, flips);
-                    legalMoves.push({ x, y, flips, score });
-                }
-            }
+    let maxScore = -Infinity;
+    let bestMove = null;
+
+    for (let move of validMoves) {
+        const simulatedBoard = simulateBoard(board, move.row, move.col, color);
+        const score = countStones(simulatedBoard, color);
+        if (score > maxScore) {
+            maxScore = score;
+            bestMove = move;
         }
     }
 
-    if (legalMoves.length === 0) {
-        checkGameState();
-        return;
-    }
-
-    legalMoves.sort((a, b) => b.score - a.score);
-    const bestMoves = legalMoves.filter(m => m.score === legalMoves[0].score);
-    const move = bestMoves[Math.floor(Math.random() * bestMoves.length)];
-    const cells = document.querySelectorAll(".cell");
-    setDisk(cells, move.x, move.y, currentColor);
-    move.flips.forEach((c) => c.classList.replace(getOpponentColor(), currentColor));
-    currentColor = getOpponentColor();
-    updateStatusBar();
-    checkGameState();
+    return bestMove;
 }
 
-function simulateBoardScore(x, y, flips) {
-    const tempStones = document.querySelectorAll(".cell." + currentColor).length;
-    const total = tempStones + flips.length + 1;
-    return total;
+function simulateBoard(board, row, col, color) {
+    const newBoard = board.map(r => r.slice());
+    const flips = getFlips(newBoard, row, col, color);
+    newBoard[row][col] = color;
+    flips.forEach(([r, c]) => (newBoard[r][c] = color));
+    return newBoard;
+}
+
+function countStones(board, color) {
+    let count = 0;
+    for (let row of board) {
+        for (let cell of row) {
+            if (cell === color) count++;
+        }
+    }
+    return count;
+}
+
+// 共通インターフェース（mainで使用される）
+function getBestMove(board, color, level) {
+    if (level === "easy") {
+        return makeCpuMove(board, color);
+    } else if (level === "normal") {
+        return makeCpuMoveAdvanced(board, color);
+    } else {
+        return makeCpuMoveStrong(board, color);
+    }
 }

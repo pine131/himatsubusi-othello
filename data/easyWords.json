@@ -1,0 +1,4002 @@
+[
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    },
+    {
+        "kana": "ねこ",
+        "roma": "neko"
+    },
+    {
+        "kana": "いぬ",
+        "roma": "inu"
+    },
+    {
+        "kana": "やま",
+        "roma": "yama"
+    },
+    {
+        "kana": "そら",
+        "roma": "sora"
+    },
+    {
+        "kana": "はな",
+        "roma": "hana"
+    },
+    {
+        "kana": "かわ",
+        "roma": "kawa"
+    },
+    {
+        "kana": "ゆき",
+        "roma": "yuki"
+    },
+    {
+        "kana": "あめ",
+        "roma": "ame"
+    },
+    {
+        "kana": "うみ",
+        "roma": "umi"
+    },
+    {
+        "kana": "かぜ",
+        "roma": "kaze"
+    },
+    {
+        "kana": "はし",
+        "roma": "hashi"
+    },
+    {
+        "kana": "みず",
+        "roma": "mizu"
+    },
+    {
+        "kana": "くも",
+        "roma": "kumo"
+    },
+    {
+        "kana": "たまご",
+        "roma": "tamago"
+    },
+    {
+        "kana": "ごはん",
+        "roma": "gohan"
+    },
+    {
+        "kana": "せんせい",
+        "roma": "sensei"
+    },
+    {
+        "kana": "がくせい",
+        "roma": "gakusei"
+    },
+    {
+        "kana": "ともだち",
+        "roma": "tomodachi"
+    },
+    {
+        "kana": "じてんしゃ",
+        "roma": "jitensha"
+    },
+    {
+        "kana": "でんしゃ",
+        "roma": "densha"
+    },
+    {
+        "kana": "くるま",
+        "roma": "kuruma"
+    },
+    {
+        "kana": "たてもの",
+        "roma": "tatemono"
+    },
+    {
+        "kana": "おちゃ",
+        "roma": "ocha"
+    },
+    {
+        "kana": "こうえん",
+        "roma": "kouen"
+    },
+    {
+        "kana": "ほん",
+        "roma": "hon"
+    },
+    {
+        "kana": "ざっし",
+        "roma": "zasshi"
+    },
+    {
+        "kana": "いえ",
+        "roma": "ie"
+    },
+    {
+        "kana": "まど",
+        "roma": "mado"
+    },
+    {
+        "kana": "いす",
+        "roma": "isu"
+    },
+    {
+        "kana": "つくえ",
+        "roma": "tsukue"
+    },
+    {
+        "kana": "でんき",
+        "roma": "denki"
+    },
+    {
+        "kana": "にほん",
+        "roma": "nihon"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "あさ",
+        "roma": "asa"
+    },
+    {
+        "kana": "ひる",
+        "roma": "hiru"
+    },
+    {
+        "kana": "よる",
+        "roma": "yoru"
+    },
+    {
+        "kana": "かぞく",
+        "roma": "kazoku"
+    },
+    {
+        "kana": "てがみ",
+        "roma": "tegami"
+    },
+    {
+        "kana": "じかん",
+        "roma": "jikan"
+    },
+    {
+        "kana": "とも",
+        "roma": "tomo"
+    },
+    {
+        "kana": "まち",
+        "roma": "machi"
+    },
+    {
+        "kana": "しごと",
+        "roma": "shigoto"
+    },
+    {
+        "kana": "がっこう",
+        "roma": "gakkou"
+    },
+    {
+        "kana": "おんがく",
+        "roma": "ongaku"
+    },
+    {
+        "kana": "てれび",
+        "roma": "terebi"
+    },
+    {
+        "kana": "ぱそこん",
+        "roma": "pasokon"
+    },
+    {
+        "kana": "けいたい",
+        "roma": "keitai"
+    },
+    {
+        "kana": "しんぶん",
+        "roma": "shinbun"
+    },
+    {
+        "kana": "えんぴつ",
+        "roma": "enpitsu"
+    },
+    {
+        "kana": "けしごむ",
+        "roma": "keshigomu"
+    }
+]

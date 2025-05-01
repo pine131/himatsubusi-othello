@@ -1,0 +1,4002 @@
+[
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    },
+    {
+        "kana": "かいもの",
+        "roma": "kaimono"
+    },
+    {
+        "kana": "えんそく",
+        "roma": "ensoku"
+    },
+    {
+        "kana": "かぞくりょこう",
+        "roma": "kazokuryokou"
+    },
+    {
+        "kana": "けんがく",
+        "roma": "kengaku"
+    },
+    {
+        "kana": "じっけん",
+        "roma": "jikken"
+    },
+    {
+        "kana": "しけん",
+        "roma": "shiken"
+    },
+    {
+        "kana": "せいせき",
+        "roma": "seiseki"
+    },
+    {
+        "kana": "じゅけん",
+        "roma": "juken"
+    },
+    {
+        "kana": "きょうかしょ",
+        "roma": "kyoukasho"
+    },
+    {
+        "kana": "じしょ",
+        "roma": "jisho"
+    },
+    {
+        "kana": "けいさんき",
+        "roma": "keisanki"
+    },
+    {
+        "kana": "けいたいでんわ",
+        "roma": "keitaidenwa"
+    },
+    {
+        "kana": "ふでばこ",
+        "roma": "fudebako"
+    },
+    {
+        "kana": "ぶんぼうぐ",
+        "roma": "bunbougu"
+    },
+    {
+        "kana": "のうと",
+        "roma": "noto"
+    },
+    {
+        "kana": "きょうしつ",
+        "roma": "kyoushitsu"
+    },
+    {
+        "kana": "としょしつ",
+        "roma": "toshoshitsu"
+    },
+    {
+        "kana": "うんどうじょう",
+        "roma": "undoujou"
+    },
+    {
+        "kana": "ていしょく",
+        "roma": "teishoku"
+    },
+    {
+        "kana": "きゅうしょく",
+        "roma": "kyuushoku"
+    },
+    {
+        "kana": "こうちょうせんせい",
+        "roma": "kouchousensei"
+    },
+    {
+        "kana": "きょうとうせんせい",
+        "roma": "kyoutousensei"
+    },
+    {
+        "kana": "にっき",
+        "roma": "nikki"
+    },
+    {
+        "kana": "がっきゅう",
+        "roma": "gakkyuu"
+    },
+    {
+        "kana": "なつやすみ",
+        "roma": "natsuyasumi"
+    },
+    {
+        "kana": "ふゆやすみ",
+        "roma": "fuyuyasumi"
+    },
+    {
+        "kana": "しゅうがくりょこう",
+        "roma": "shuugakuryokou"
+    },
+    {
+        "kana": "たいけんがくしゅう",
+        "roma": "taikengakushuu"
+    },
+    {
+        "kana": "がくしゅうはっぴょう",
+        "roma": "gakushuuhappyou"
+    },
+    {
+        "kana": "しょうがっこう",
+        "roma": "shougakkou"
+    },
+    {
+        "kana": "ちゅうがっこう",
+        "roma": "chuugakkou"
+    },
+    {
+        "kana": "ぶんかさい",
+        "roma": "bunkasai"
+    },
+    {
+        "kana": "うんどうかい",
+        "roma": "undoukai"
+    },
+    {
+        "kana": "じゅぎょう",
+        "roma": "jugyou"
+    },
+    {
+        "kana": "かていか",
+        "roma": "kateika"
+    },
+    {
+        "kana": "すうがく",
+        "roma": "suugaku"
+    },
+    {
+        "kana": "びじゅつ",
+        "roma": "bijutsu"
+    },
+    {
+        "kana": "たいいく",
+        "roma": "taiiku"
+    },
+    {
+        "kana": "りか",
+        "roma": "rika"
+    },
+    {
+        "kana": "しゃかい",
+        "roma": "shakai"
+    },
+    {
+        "kana": "こくご",
+        "roma": "kokugo"
+    },
+    {
+        "kana": "えいご",
+        "roma": "eigo"
+    },
+    {
+        "kana": "せいとかい",
+        "roma": "seitokai"
+    },
+    {
+        "kana": "どうぶつえん",
+        "roma": "doubutsuen"
+    },
+    {
+        "kana": "はくぶつかん",
+        "roma": "hakubutsukan"
+    },
+    {
+        "kana": "びじゅつかん",
+        "roma": "bijutsukan"
+    },
+    {
+        "kana": "がいこくご",
+        "roma": "gaikokugo"
+    },
+    {
+        "kana": "たいいくさい",
+        "roma": "taiikusai"
+    },
+    {
+        "kana": "しゅくだい",
+        "roma": "shukudai"
+    }
+]
